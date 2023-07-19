@@ -15,8 +15,8 @@ public class Arrays{
 }
 
 
-//user se input leke store karana
-/*import java.util.*;
+                  //user se input leke store karana
+import java.util.*;
 public class Arrays{
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
@@ -33,7 +33,7 @@ public class Arrays{
             System.out.println(numbers[i]);
         }
     }
-}*/
+}
 
 //Take an array from the user and search for a given number x and print the index at which it occurs
 
