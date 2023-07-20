@@ -1,18 +1,18 @@
-// public class Recursion {
-//     public static void printNumb(int n){
-//         if(n==0){
-//             return;
-//         }
-//         System.out.println(n);
-//         printNumb(n-1);
-//     }
-//     public static void main(String args[]){
-//         int n=5;
-//         printNumb(n);
-//     }
-// }
+public class Recursion {
+    public static void printNumb(int n){
+        if(n==0){
+            return;
+        }
+        System.out.println(n);
+        printNumb(n-1);
+    }
+    public static void main(String args[]){
+        int n=5;
+        printNumb(n);
+    }
+}
 
-/* Print the sum of n natural nos */
+                    /* Print the sum of n natural nos */
 public class Recursion{
     public static void printSum(int i, int n, int sum){
         if(i==n){
