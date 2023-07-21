@@ -1,11 +1,11 @@
-// public class Stings {
-//     public static void main(String[] args) {
-//         //String Datatype
-//         String name = "Tony";
-//         String sentence = "Tony name is this";
+public class Stings {
+    public static void main(String[] args) {
+        //String Datatype
+        String name = "Tony";
+        String sentence = "Tony name is this";
         
-//     }
-// }
+    }
+}
 
 // /* To take the input from the user for thhe string and print the output */
 
