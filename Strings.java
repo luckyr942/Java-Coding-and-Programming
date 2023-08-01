@@ -20,24 +20,24 @@ public class Stings {
 //     }
 // }
 
-// /* Concatenation of two string */
-// public class Stings{
-//    public static void main(String args[]) {
-//     String firstName = "Tony";
-//     String lastName = "Stark";
-//     String fullName =  firstName + lastName;
-//     System.out.println(fullName);
+/* Concatenation of two string */
+public class Stings{
+   public static void main(String args[]) {
+    String firstName = "Tony";
+    String lastName = "Stark";
+    String fullName =  firstName + lastName;
+    System.out.println(fullName);
 
-//     //for printing the length of the string
-//     System.out.println(fullName.length());
+    //for printing the length of the string
+    System.out.println(fullName.length());
 
-//     //for display every letters in a word
-//     //charAt is used
-//     for (int i=0; i<fullName.length(); i++){
-//         System.out.println(fullName.charAt(i));
-//     }
-//    }
-// }
+    //for display every letters in a word
+    //charAt is used
+    for (int i=0; i<fullName.length(); i++){
+        System.out.println(fullName.charAt(i));
+    }
+   }
+}
 
 // /* For comparing the two String we use  */
 // //compareTo
