@@ -16,4 +16,3 @@ public class Backtracking {
         printPermutation(str, " ", 0);        
     }
 }
-
