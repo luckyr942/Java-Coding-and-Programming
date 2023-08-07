@@ -23,6 +23,5 @@ class LinearSearch{
         else{
             System.out.println("Element is found at position"+index);
         }
-    }
-    
+    }  
 }
