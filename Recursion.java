@@ -11,7 +11,6 @@ public class Recursion {
         printNumb(n);
     }
 }
-
                 /* Print the sum of n natural nos */
 public class Recursion{
     public static void printSum(int i, int n, int sum){
