@@ -13,7 +13,7 @@ public class Arrays{
         }
     }
 }
-                 //user se input leke store karana
+              //user se input leke store karana
 import java.util.*;
 public class Arrays{
     public static void main(String args[]) {
