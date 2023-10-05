@@ -46,7 +46,7 @@ public class Arrays{
         for (int i=0; i<size; i++){
             numbers[i] = sc.nextInt();
         }
-        
+    
         int x = sc.nextInt();
         sc.close();
         // output for loop this one
