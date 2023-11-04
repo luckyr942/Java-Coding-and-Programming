@@ -9,7 +9,6 @@ class ArrayList{
         list.add(1, 1);
         list.set(0, 5);
         int size = list.size();
-
         //loops iteration 
         for(i=0; i<list.size(); i++){
             System.out.print(list.get(i));
